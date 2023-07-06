@@ -1,61 +1,42 @@
-,CellLine,OncotreeCode,OncotreeSubtype,OncotreePrimaryDisease,OncotreeLineage
-0,WM983B,MEL,Melanoma,Melanoma,Skin
-1,IGR39,MEL,Melanoma,Melanoma,Skin
-2,HT144,MEL,Melanoma,Melanoma,Skin
-3,WM3211,ACRM,Acral Melanoma,Melanoma,Skin
-4,HS944T,SKCM,Cutaneous Melanoma,Melanoma,Skin
-5,SH4,MEL,Melanoma,Melanoma,Skin
-6,COLO679,SKCM,Cutaneous Melanoma,Melanoma,Skin
-7,C32,MEL,Melanoma,Melanoma,Skin
-8,MM386,MEL,Melanoma,Melanoma,Skin
-9,YUHOIN0650,MEL,Melanoma,Melanoma,Skin
-10,HT144SKINFV1,MEL,Melanoma,Melanoma,Skin
-11,MM485,MEL,Melanoma,Melanoma,Skin
-12,SKMEL19,SKCM,Cutaneous Melanoma,Melanoma,Skin
-13,A375SKINCJ3,MEL,Melanoma,Melanoma,Skin
-14,RVH421SKINFV1,MEL,Melanoma,Melanoma,Skin
-15,CHL1DM,MEL,Melanoma,Melanoma,Skin
-16,HS695T,MEL,Melanoma,Melanoma,Skin
-17,M140325,MEL,Melanoma,Melanoma,Skin
-18,HT144SKINFV2,MEL,Melanoma,Melanoma,Skin
-19,RVH421,MEL,Melanoma,Melanoma,Skin
-20,HS294T,MEL,Melanoma,Melanoma,Skin
-21,RPMI7951,MEL,Melanoma,Melanoma,Skin
-22,MM370,MEL,Melanoma,Melanoma,Skin
-23,WM2664,MEL,Melanoma,Melanoma,Skin
-24,MM253,MEL,Melanoma,Melanoma,Skin
-25,UACC62,MEL,Melanoma,Melanoma,Skin
-26,K029AX,SKCM,Cutaneous Melanoma,Melanoma,Skin
-27,IGR1,MEL,Melanoma,Melanoma,Skin
-28,CJM,MEL,Melanoma,Melanoma,Skin
-29,MMAC,MEL,Melanoma,Melanoma,Skin
-30,HMY1,MEL,Melanoma,Melanoma,Skin
-31,MM127,MEL,Melanoma,Melanoma,Skin
-32,M040416,ACRM,Acral Melanoma,Melanoma,Skin
-33,SKMEL24,MEL,Melanoma,Melanoma,Skin
-34,NZM3,MEL,Melanoma,Melanoma,Skin
-35,MM383,MEL,Melanoma,Melanoma,Skin
-36,WM1799,MEL,Melanoma,Melanoma,Skin
-37,SKMEL2,MEL,Melanoma,Melanoma,Skin
-38,HT144SKINFV3,MEL,Melanoma,Melanoma,Skin
-39,SEKI,MEL,Melanoma,Melanoma,Skin
-40,WM115,MEL,Melanoma,Melanoma,Skin
-41,SKMEL30,SKCM,Cutaneous Melanoma,Melanoma,Skin
-42,A375SKINCJ1,MEL,Melanoma,Melanoma,Skin
-43,MELHO,MEL,Melanoma,Melanoma,Skin
-44,IPC298,SKCM,Cutaneous Melanoma,Melanoma,Skin
-45,MELJUSO,SKCM,Cutaneous Melanoma,Melanoma,Skin
-46,WM88,MEL,Melanoma,Melanoma,Skin
-47,MDAMB435S,MEL,Melanoma,Melanoma,Skin
-48,MALME3M,MEL,Melanoma,Melanoma,Skin
-49,COLO800,SKCM,Cutaneous Melanoma,Melanoma,Skin
-50,HS936T,MEL,Melanoma,Melanoma,Skin
-51,MM160113,ACRM,Acral Melanoma,Melanoma,Skin
-52,WM793,MEL,Melanoma,Melanoma,Skin
-53,HS852T,MEL,Melanoma,Melanoma,Skin
-54,A375,MEL,Melanoma,Melanoma,Skin
-55,MM426,MEL,Melanoma,Melanoma,Skin
-56,A375SKINCJ2,MEL,Melanoma,Melanoma,Skin
-57,UACC257,MEL,Melanoma,Melanoma,Skin
-58,A2058,MEL,Melanoma,Melanoma,Skin
-59,COLO792,MEL,Melanoma,Melanoma,Skin
+,Cell Line,OncotreeCode,OncotreeSubtype,OncotreePrimaryDisease,OncotreeLineage,BRAF_mut,NRAS_mut,PrimaryorMetastasis
+39,A2058,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+36,A375,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+5,COLO679,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+40,COLO792,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+33,COLO800,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+20,HMY1,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+11,HS294T,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+9,HS695T,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+34,HS936T,MEL,Melanoma,Melanoma,Skin,p.N581K,p.Q61K,Primary
+3,HS944T,SKCM,Cutaneous Melanoma,Melanoma,Skin,,p.Q61K,Metastatic
+2,HT144,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+18,IGR1,MEL,Melanoma,Melanoma,Skin,p.V600K,,Metastatic
+1,IGR39,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+28,IPC298,SKCM,Cutaneous Melanoma,Melanoma,Skin,,p.Q61L,Primary
+17,K029AX,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+32,MALME3M,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+31,MDAMB435S,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+29,MELJUSO,SKCM,Cutaneous Melanoma,Melanoma,Skin,,p.Q61L,Primary
+15,MM253,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+13,MM370,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+22,MM383,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+6,MM386,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+37,MM426,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+7,MM485,MEL,Melanoma,Melanoma,Skin,,p.Q61R,Metastatic
+19,MMAC,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+12,RPMI7951,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+10,RVH421,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+25,SEKI,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+4,SH4,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+8,SKMEL19,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+24,SKMEL2,MEL,Melanoma,Melanoma,Skin,,p.Q61R,Metastatic
+21,SKMEL24,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+27,SKMEL30,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.D287H/p.E275K,p.Q61K,Metastatic
+38,UACC257,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+16,UACC62,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+26,WM115,MEL,Melanoma,Melanoma,Skin,p.V600D,,Metastatic
+23,WM1799,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+14,WM2664,MEL,Melanoma,Melanoma,Skin,p.V600D,,Metastatic
+35,WM793,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+30,WM88,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+0,WM983B,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic

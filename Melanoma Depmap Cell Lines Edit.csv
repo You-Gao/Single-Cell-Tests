@@ -1,0 +1,81 @@
+,Barcode,CellLine,OncotreeCode,OncotreeSubtype,OncotreePrimaryDisease,OncotreeLineage,BRAF_mut,NRAS_mut,PrimaryorMetastasis
+A101D,ACH-000008,A101D,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+A375,ACH-000219,A375,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+COLO794,ACH-001339,COLO794,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+COLO829,ACH-000644,COLO829,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+CP50MELB,ACH-002096,CP50MELB,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+CP66MEL,ACH-002097,CP66MEL,MEL,Melanoma,Melanoma,Skin,,p.Q61K,Primary
+CP67MEL,ACH-002098,CP67MEL,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+G361,ACH-000572,G361,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+GMEL,ACH-002121,GMEL,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+HMCB,ACH-000931,HMCB,MEL,Melanoma,Melanoma,Skin,,p.Q61K,Primary
+HS936T,ACH-000801,HS936T,MEL,Melanoma,Melanoma,Skin,p.N581K,p.Q61K,Primary
+HS939T,ACH-000814,HS939T,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+IGR39,ACH-000550,IGR39,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+IPC298,ACH-000915,IPC298,SKCM,Cutaneous Melanoma,Melanoma,Skin,,p.Q61L,Primary
+ISTMEL1,ACH-002143,ISTMEL1,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+K029AX,ACH-000404,K029AX,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+K2,ACH-002147,K2,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+LB2518MEL,ACH-002152,LB2518MEL,MEL,Melanoma,Melanoma,Skin,,p.Q61K,Primary
+LB373MELD,ACH-002153,LB373MELD,MEL,Melanoma,Melanoma,Skin,,p.Q61K,Primary
+M1203273,ACH-002387,M1203273,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+MELJUSO,ACH-000881,MELJUSO,SKCM,Cutaneous Melanoma,Melanoma,Skin,,p.Q61L,Primary
+MET2B,ACH-002388,MET2B,MEL,Melanoma,Melanoma,Skin,,p.Q61H,Primary
+MZ2MEL,ACH-002165,MZ2MEL,MEL,Melanoma,Melanoma,Skin,,p.Q61K,Primary
+SEKI,ACH-001645,SEKI,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+SKMEL19,ACH-002005,SKMEL19,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+SKMEL28,ACH-000615,SKMEL28,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+SKMEL31,ACH-000640,SKMEL31,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+UACC257,ACH-000579,UACC257,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+UACC62,ACH-000425,UACC62,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+VMRCMELG,ACH-001704,VMRCMELG,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+WM1552C,ACH-002205,WM1552C,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Primary
+WM1799,ACH-000661,WM1799,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+WM278,ACH-002206,WM278,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+WM35,ACH-002207,WM35,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+WM793,ACH-000827,WM793,MEL,Melanoma,Melanoma,Skin,p.V600E,,Primary
+451LU,ACH-001002,451LU,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+A2058,ACH-000788,A2058,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+COLO679,ACH-000805,COLO679,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+COLO741,ACH-000582,COLO741,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+COLO783,ACH-000812,COLO783,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+COLO792,ACH-000968,COLO792,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+COLO800,ACH-000401,COLO800,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+HMY1,ACH-001522,HMY1,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+HS294T,ACH-000014,HS294T,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+HS695T,ACH-000799,HS695T,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+HS944T,ACH-000632,HS944T,SKCM,Cutaneous Melanoma,Melanoma,Skin,,p.Q61K,Metastatic
+HT144,ACH-000322,HT144,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+IGR1,ACH-000882,IGR1,MEL,Melanoma,Melanoma,Skin,p.V600K,,Metastatic
+IGR37,ACH-000650,IGR37,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+LOXIMVI,ACH-000750,LOXIMVI,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+M00921,ACH-002386,M00921,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+M14,ACH-002159,M14,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+M980513,ACH-002338,M980513,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MALME3M,ACH-000477,MALME3M,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MDAMB435S,ACH-000884,MDAMB435S,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MM253,ACH-001970,MM253,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MM370,ACH-001566,MM370,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MM383,ACH-001567,MM383,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MM386,ACH-001568,MM386,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MM415,ACH-001569,MM415,MEL,Melanoma,Melanoma,Skin,,p.Q61L,Metastatic
+MM426,ACH-001570,MM426,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MM485,ACH-001973,MM485,MEL,Melanoma,Melanoma,Skin,,p.Q61R,Metastatic
+MMAC,ACH-002084,MMAC,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MMACSF,ACH-002162,MMACSF,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+MZ7MEL,ACH-002166,MZ7MEL,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+NZM42,ACH-001986,NZM42,MEL,Melanoma,Melanoma,Skin,,p.Q61K,Metastatic
+NZM7,ACH-001990,NZM7,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+RPMI7951,ACH-000348,RPMI7951,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+RVH421,ACH-000614,RVH421,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+SH4,ACH-000441,SH4,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+SKMEL1,ACH-000465,SKMEL1,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+SKMEL2,ACH-001190,SKMEL2,MEL,Melanoma,Melanoma,Skin,,p.Q61R,Metastatic
+SKMEL24,ACH-000822,SKMEL24,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+SKMEL3,ACH-000423,SKMEL3,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+SKMEL30,ACH-000810,SKMEL30,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.D287H/p.E275K,p.Q61K,Metastatic
+SKMEL5,ACH-000730,SKMEL5,SKCM,Cutaneous Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+WM115,ACH-000304,WM115,MEL,Melanoma,Melanoma,Skin,p.V600D,,Metastatic
+WM2664,ACH-001239,WM2664,MEL,Melanoma,Melanoma,Skin,p.V600D,,Metastatic
+WM88,ACH-000899,WM88,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
+WM983B,ACH-000765,WM983B,MEL,Melanoma,Melanoma,Skin,p.V600E,,Metastatic
